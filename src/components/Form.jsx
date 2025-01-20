@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { PDFViewer } from "@react-pdf/renderer"
-import Pdf from "/home/lyes/repos/cv_maker/src/components/Pdf.jsx"
-import "/home/lyes/repos/cv_maker/src/App.css"
+import Pdf from "./Pdf.jsx"
+import "/src/App.css"
 
 function FormInput() {
   const [saved, setSaved] = useState(false)
