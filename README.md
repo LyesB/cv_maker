@@ -1,2 +1,2 @@
-# cv_maker
-First react app
+First react app, CV MAKER.
+Dependencies: react-pdf, json local server.

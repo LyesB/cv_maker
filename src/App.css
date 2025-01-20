@@ -1,0 +1,26 @@
+:root {
+  padding: 1rem;
+}
+
+.root {
+  display: flex;
+  gap: 2rem;
+}
+
+/* .form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 30%;
+} */
+
+.formSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 30%;
+}
+
+.pdfSection {
+  width: 70%;
+}
